@@ -11,3 +11,5 @@ venv/
 .DS_Store
 Thumbs.db
 .vscode/
+# Database (rebuild with scripts/build_database.py)
+*.db
