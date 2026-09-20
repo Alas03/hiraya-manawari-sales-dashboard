@@ -1,0 +1,97 @@
+product_id,product_name,category,price
+PRD-001,Tropical Oversized Tee,T-Shirts,459
+PRD-002,Classic Oversized Tee,T-Shirts,229
+PRD-003,Everyday Oversized Tee,T-Shirts,409
+PRD-004,Urban Graphic Tee,T-Shirts,429
+PRD-005,Classic Graphic Tee,T-Shirts,419
+PRD-006,Manila Graphic Tee,T-Shirts,439
+PRD-007,Island Crew Neck Tee,T-Shirts ,319
+PRD-008,Premium Crew Neck Tee,T-Shirts,259
+PRD-009,Classic Crew Neck Tee,t-shirts,479
+PRD-010,Manila Polo Shirt,T-Shirts,339
+PRD-011,Premium Polo Shirt,T-Shirts,339
+PRD-012,Island Polo Shirt,T-SHIRTS,269
+PRD-013,Tropical Floral Dress,Dresses,899
+PRD-014,Island Floral Dress,Dresses,569
+PRD-015,Classic Floral Dress,Dresses,779
+PRD-016,Tropical Midi Dress,Dresses,989
+PRD-017,Classic Midi Dress,Dresses,669
+PRD-018,Everyday Midi Dress,Dresses,939
+PRD-019,Everyday Summer Dress,Dresses,679
+PRD-020,Premium Summer Dress,Dresses,699
+PRD-021,Manila Summer Dress,Dresses,429
+PRD-022,Island Wrap Dress,Dresses,849
+PRD-023,Urban Wrap Dress,Dresses,619
+PRD-024,Everyday Wrap Dress,Dresses ,979
+PRD-025,Tropical Skinny Jeans,Jeans & Pants,879
+PRD-026,Sunday Skinny Jeans,Jeans & Pants,1139
+PRD-027,Premium Skinny Jeans,Jeans & Pants,659
+PRD-028,Everyday Cargo Pants,Jeans & Pants,689
+PRD-029,Sunday Cargo Pants,Jeans & Pants,959
+PRD-030,Classic Cargo Pants,Jeans & Pants,1039
+PRD-031,Everyday Straight Cut Jeans,Jeans & Pants,1059
+PRD-032,Island Straight Cut Jeans,jeans & pants,579
+PRD-033,Urban Straight Cut Jeans,JEANS & PANTS,749
+PRD-034,Manila Jogger Pants,Jeans & Pants,809
+PRD-035,Everyday Jogger Pants,Jeans & Pants ,1219
+PRD-036,Island Jogger Pants,Jeans & Pants,729
+PRD-037,Everyday Pullover Hoodie,Hoodies & Jackets,779
+PRD-038,Manila Pullover Hoodie,Hoodies & Jackets,1329
+PRD-039,Urban Pullover Hoodie,Hoodies & Jackets,609
+PRD-040,Premium Zip Hoodie,Hoodies & Jackets,1239
+PRD-041,Manila Zip Hoodie,Hoodies & Jackets,849
+PRD-042,Everyday Zip Hoodie,Hoodies & Jackets,1309
+PRD-043,Manila Denim Jacket,Hoodies & Jackets,729
+PRD-044,Island Denim Jacket,Hoodies & Jackets,819
+PRD-045,Premium Denim Jacket,Hoodies & Jackets,709
+PRD-046,Sunday Windbreaker,Hoodies & Jackets,1109
+PRD-047,Everyday Windbreaker,hoodies & jackets,679
+PRD-048,Manila Windbreaker,Hoodies & Jackets,1289
+PRD-049,Tropical Denim Shorts,Shorts,449
+PRD-050,Island Denim Shorts,Shorts,529
+PRD-051,Manila Denim Shorts,Shorts,359
+PRD-052,Island Board Shorts,Shorts,329
+PRD-053,Sunday Board Shorts,Shorts,349
+PRD-054,Classic Board Shorts,Shorts,399
+PRD-055,Classic Cotton Shorts,Shorts,269
+PRD-056,Premium Cotton Shorts,Shorts,549
+PRD-057,Everyday Cotton Shorts,Shorts,349
+PRD-058,Island Cycling Shorts,SHORTS,449
+PRD-059,Everyday Cycling Shorts,Shorts,429
+PRD-060,Sunday Cycling Shorts,Shorts,529
+PRD-061,Island Sports Bra,Activewear,799
+PRD-062,Everyday Sports Bra,Activewear,529
+PRD-063,Manila Sports Bra,Activewear ,449
+PRD-064,Tropical Leggings,Activewear,749
+PRD-065,Classic Leggings,Activewear,739
+PRD-066,Sunday Leggings,Activewear,609
+PRD-067,Manila Dri-Fit Shirt,Activewear ,439
+PRD-068,Tropical Dri-Fit Shirt,Activewear,629
+PRD-069,Urban Dri-Fit Shirt,Activewear,739
+PRD-070,Urban Gym Shorts,Activewear,519
+PRD-071,Sunday Gym Shorts,Activewear,729
+PRD-072,Island Gym Shorts,Activewear,699
+PRD-073,Sunday Barong Tagalog,Filipiniana & Barong,1089
+PRD-074,Tropical Barong Tagalog,Filipiniana & Barong,1449
+PRD-075,Island Barong Tagalog,Filipiniana & Barong,2439
+PRD-076,Premium Baro't Saya,Filipiniana & Barong,1329
+PRD-077,Sunday Baro't Saya,Filipiniana & Barong,2129
+PRD-078,Island Baro't Saya,Filipiniana & Barong,2449
+PRD-079,Urban Terno Dress,FILIPINIANA & BARONG,1619
+PRD-080,Everyday Terno Dress,Filipiniana & Barong,2079
+PRD-081,Sunday Terno Dress,Filipiniana & Barong,1339
+PRD-082,Premium Modern Filipiniana,Filipiniana & Barong,1629
+PRD-083,Classic Modern Filipiniana,Filipiniana & Barong,2029
+PRD-084,Island Modern Filipiniana,Filipiniana & Barong,1229
+PRD-085,Manila Tote Bag,accessories,159
+PRD-086,Premium Tote Bag,Accessories,239
+PRD-087,Sunday Tote Bag,Accessories ,359
+PRD-088,Classic Bucket Hat,Accessories,229
+PRD-089,Everyday Bucket Hat,Accessories,199
+PRD-090,Island Bucket Hat,Accessories,289
+PRD-091,Classic Scarf,Accessories,129
+PRD-092,Tropical Scarf,Accessories,329
+PRD-093,Manila Scarf,Accessories,229
+PRD-094,Urban Belt,Accessories ,199
+PRD-095,Manila Belt,ACCESSORIES,299
+PRD-096,Classic Belt,Accessories,149
