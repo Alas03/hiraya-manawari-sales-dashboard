@@ -114,4 +114,4 @@ Then open `data/hiraya_manawari.db` in [DB Browser for SQLite](https://sqlitebro
 
 ## Author
 
-**[Your Name]** | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+**[Je Ace Zara]** | [LinkedIn](https://www.linkedin.com/injeacezara0310/) | [GitHub](https://github.com/Alas03)
