@@ -26,7 +26,7 @@ products to find what sells, where, and how customers pay.
 - **AOV** = Total Revenue / Number of Completed Orders
 - **MoM Growth %** = (This Month - Last Month) / Last Month x 100
 - **Cancellation Rate %** = Cancelled Orders / Total Orders x 100
-- **Repeat Customer Rate %** = Customers with 2+ orders / Total Customers x 100
+- **Repeat Customer Rate % = Customers with 2+ orders / Customers with at least 1 order x 100
 
 ## Data Tables Needed
 
